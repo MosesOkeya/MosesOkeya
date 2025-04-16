@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects requiring the knowledge from the above programming languages 
 - 📫 How to reach me: mosesokeya@yahoo.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Python as a programming language was about a certain show
+- ⚡ Fun fact: Python as a programming language was named after a certain comedy show
 
 <!---
 MosesOkeya/MosesOkeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
